@@ -25,3 +25,18 @@ begin
 	endcase
 end
 	endmodule
+
+
+	pradhanth///
+
+abcd
+efgh
+ijkl
+mnop
+qrst
+
+prashanth //
+
+
+
+
